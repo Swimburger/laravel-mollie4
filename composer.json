@@ -1,0 +1,26 @@
+{
+  "name": "sniels/laravel-mollie4",
+  "description": "Mollie Service provider for Laravel 4",
+  "keywords": [
+    "laravel",
+    "mollie"
+  ],
+  "licence": "MIT",
+  "authors": [
+    {
+      "name": "Niels Swimberghe",
+      "email": "nielsswimberghe@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~4",
+    "mollie/mollie-api-php": "1.3.x"
+  },
+  "autoload": {
+    "psr-0": {
+      "Sniels\\LaravelMollie": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
