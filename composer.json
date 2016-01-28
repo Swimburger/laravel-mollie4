@@ -22,5 +22,5 @@
       "Sniels\\LaravelMollie": "src/"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
